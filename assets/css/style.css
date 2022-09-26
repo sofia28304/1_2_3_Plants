@@ -151,6 +151,8 @@ main h3 {
     color: black;
 }
 
+/* Oben das muss nochmal angesprochen werden weil sonst die schriftfarbe nicht übernommen wird. */
+
 .maincontact a:hover {
     text-decoration: underline;
     color: black;
